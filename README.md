@@ -18,9 +18,9 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 
-[![I Am 5r!r4m NOOB PROGRAMMER](https://img.shields.io/badge/I%20Am%205r!r4m-NOOB%20PROGRAMMER-orange?style=flat-square&logoColor=white)](https://img.shields.io/badge/I%20Am%205r!r4m-NOOB%20PROGRAMMER-orange?style=flat-square&logoColor=white)
+[![I Am 5r!r4m (͟1͟*͟1͟9͟)͟](https://img.shields.io/badge/I%20Am%205r!r4m-(͟1͟*͟1͟9͟)͟-orange?style=flat-square&logoColor=white)](https://img.shields.io/badge/I%20Am%205r!r4m-(͟1͟*͟1͟9͟)͟-orange?style=flat-square&logoColor=white)
 
-Axis (4×15)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝐈𝐓'𝐬+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝕀𝕋'𝕤+𝔸+𝔹ℝ𝔸ℕ𝔻;тнαик+уσυ+єνєяуσиє;𝐋𝐎𝐕𝐄+𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)
 
