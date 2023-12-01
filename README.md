@@ -43,7 +43,7 @@
 
 - ➪ 𝙽𝙰𝙼𝙴 :- 5UNN4M_5R!R4M
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
 
 - ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- °☆☆𝕮𝖗¡𝖘𝖙¡♤𝖓♡☆☆°
 
