@@ -39,7 +39,7 @@
 
 </h3>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝙽𝙰𝙼𝙴 :- 5UNN4M_5R!R4M
 
