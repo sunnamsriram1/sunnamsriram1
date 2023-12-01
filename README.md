@@ -43,7 +43,7 @@
 
 - ➪ 𝙽𝙰𝙼𝙴 :- 5UNN4M_5R!R4M
 
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- °☆☆𝕮𝖗¡𝖘𝖙¡♤𝖓♡☆☆°
 
@@ -51,7 +51,7 @@
 
 - ➪ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- ѕтυ∂у
 
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽𝚂𝙷𝙸𝙿 :- 🆂🅸🅽🅶🅻🅴
 
@@ -59,14 +59,14 @@
 
 - ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Sprogram001](https://www.facebook.com/sriram.sunnam)
 
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 
 <img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [Sunnam01Ram](https://www.instagram.com/sunnam01ram/)
 
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [Sprogram001](https://www.youtube.com/channel/UC3Q29VN86_aNP9fjRW5wZaQ)
 
@@ -74,11 +74,13 @@
 
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
+
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 <a href="https://github.com/sunnamsriram1"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://www.facebook.com/sriram.sunnam"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/sunnam01ram/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
 
-
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 
 
 
