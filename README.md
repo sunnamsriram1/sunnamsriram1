@@ -19,6 +19,7 @@
 <img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 
 
+![I Am 🅿🆈🆃🅷🅾🅽- NOOB PROGRAMMER](https://img.shields.io/badge/I%20Am%20🅿🆈🆃🅷🅾🅽-NOOB%20PROGRAMMER-green?colorA=%23F70B10&style=flat-square)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝐈𝐓'𝐬+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝕀𝕋'𝕤+𝔸+𝔹ℝ𝔸ℕ𝔻;тнαик+уσυ+єνєяуσиє;𝐋𝐎𝐕𝐄+𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)
 
