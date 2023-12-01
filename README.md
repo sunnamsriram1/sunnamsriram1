@@ -17,7 +17,9 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝐈𝐓'𝐬+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝕀𝕋'𝕤+𝔸+𝔹ℝ𝔸ℕ𝔻;тнαик+уσυ+єνєяуσиє;𝐋𝐎𝐕𝐄+𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)](https://git.io/typing-svg)
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/sunnamsriram1"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -74,13 +76,11 @@
 
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 <a href="https://github.com/sunnamsriram1"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://www.facebook.com/sriram.sunnam"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/sunnam01ram/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
 
-<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
+
 
 
 
