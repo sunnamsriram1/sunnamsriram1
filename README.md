@@ -28,7 +28,9 @@
  <img src="https://profile-counter.glitch.me/sunnamsriram1/count.svg" alt="Visitors">
 </p>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="[(https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg)">
+
+
 
 <h3 align="center">𝕬 𝕻𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝕻𝖞𝖙𝖍𝖔𝖓 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝕱𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 
   
