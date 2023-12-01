@@ -1,4 +1,4 @@
-![Flag_of_India](https://github.com/sunnamsriram1/sunnamsriram1/assets/59051820/21fdae06-15b3-45c1-aa51-fdb6dcad1bcf)### Hi there 👋
+### Hi there 👋
 
 <!--
 **sunnamsriram1/sunnamsriram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
