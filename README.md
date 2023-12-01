@@ -18,7 +18,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img1.svg">
 
-[![I Am 5r!r4m (͟1͟*͟1͟9͟)͟](https://img.shields.io/badge/I%20Am%205r!r4m-(͟1͟*͟1͟9͟)͟-orange?style=flat-square&logoColor=white)](https://img.shields.io/badge/I%20Am%205r!r4m-(͟1͟*͟1͟9͟)͟-orange?style=flat-square&logoColor=white)
+[![I Am 5r!r4m(➊*➊➒)](https://img.shields.io/badge/I%20Am%205r!r4m-(➊*➊➒)-orange?style=flat-square&logoColor=white)](https://img.shields.io/badge/I%20Am%205r!r4m-(➊*➊➒)-orange?style=flat-square&logoColor=white)
 
 
 
