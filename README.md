@@ -47,30 +47,30 @@
 
 - ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- °☆☆𝕮𝖗¡𝖘𝖙¡♤𝖓♡☆☆°
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- ѕтυ∂у
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
 
 - ➪ 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽𝚂𝙷𝙸𝙿 :- 🆂🅸🅽🅶🅻🅴
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Sprogram001](https://www.facebook.com/sriram.sunnam)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
 
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 - ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [Sunnam01Ram](https://www.instagram.com/sunnam01ram/)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img3.svg">
 
 - ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [Sprogram001](https://www.youtube.com/channel/UC3Q29VN86_aNP9fjRW5wZaQ)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/sunnamsriram1/sunnamsriram1/blob/main/Img/img2.svg">
 
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
