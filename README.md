@@ -29,7 +29,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">𝕬 𝕻𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝕻𝖞𝖙𝖍𝖔𝖓 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝕱𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 
+<h3 align="center">𝕬 𝕻𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝕻𝖞𝖙𝖍𝖔𝖓 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝕱𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 🇮🇳
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
