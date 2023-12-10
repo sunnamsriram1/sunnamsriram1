@@ -34,6 +34,34 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/sunnamsriram1"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+<h3 align="left">🤙🏻 Connect with me:</h3>
+<p align="left"><a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"
+            width="38" /></a> <a href="https://www.dev.to/sunnamsriram1" target="_blank"
+        rel="noreferrer"> <kbd> <img
+            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
+            width="40" height="32" /></a> <a href="https://www.facebook.com/sriramsunnam" target="_blank"
+        rel="noreferrer"> <kbd> <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
+            width="40" height="32" /></a> <a href="http://www.instagram.com/sunnam01ram" target="_blank"
+        rel="noreferrer"> <kbd> <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+            width="40" height="32" /></a> <a href="https://www.linkedin.com/in/sunnam-seetharam-469554295" target="_blank"
+        rel="noreferrer"> <kbd> <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+            width="40" height="32" /></a> <a href="https://www.stackoverflow.com/users/23075363/sunnam-seetharam?tab=profile"
+        target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+            width="40" height="32" /></a> <a href="https://www.youtube.com/c/sprogram001" target="_blank"
+        rel="noreferrer"> <kbd> <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
+            width="40" height="32" /></a>
+</p>
+
+
+
+
+
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
