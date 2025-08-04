@@ -5,6 +5,26 @@
 - 💬 Join Telegram: https://t.me/sunnamsriram  
 - 💰 UPI Payment: sunnamsriram22@oksbi (₹299/- only one Tool)
 - 🧠 Get support & updates through Telegram!
+
+## 🔐 License
+
+This project, including its code, tools, or bots, is licensed for **Commercial Use Only**.
+
+- ✅ **Free for personal use** (testing, learning, non-commercial purposes).
+- 💼 **Commercial usage** (apps, bots, services) requires **explicit permission or payment**.
+- 🚫 Unauthorized reproduction, resale, or modification is **strictly prohibited**.
+
+📩 Contact for licensing:  
+🔗 Telegram: [https://t.me/YOUR_USERNAME](https://t.me/sunnamsriram)  
+🔗 GitHub: [https://github.com/sunnamsriram1](https://github.com/sunnamsriram1)
+
+---
+
+© 2025 **Sunnam Sriram**  
+💬 *You have the right to digital privacy. Protect it.*
+
+
+
 <!--
 **sunnamsriram1/sunnamsriram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```
