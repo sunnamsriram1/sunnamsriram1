@@ -32,8 +32,8 @@ This project, including its code, tools, or bots, is licensed for **Commercial U
 <!-- Github README --> <!--...-->
 
 
-### <!--<p align="center"><img src="https://img.shields.io/badge/I Am 🅿🆈🆃🅷🅾🅽- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> -->
-<p align="center"><img src="https://img.shields.io/badge/I Am 🅿🆈🆃🅷🅾🅽- NOOB PROGRAMMER-green?colorA=%23FF9933&colorB=%23017e40&style=flat-square">
+### <!--<p align="center"><img src="https://img.shields.io/badge/I Am 🅿🆈🆃🅷🅾🅽- PY PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> -->
+<p align="center"><img src="https://img.shields.io/badge/I Am 🅿🆈🆃🅷🅾🅽- PY PROGRAMMER-green?colorA=%23FF9933&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
