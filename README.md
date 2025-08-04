@@ -15,7 +15,7 @@ This project, including its code, tools, or bots, is licensed for **Commercial U
 - 🚫 Unauthorized reproduction, resale, or modification is **strictly prohibited**.
 
 📩 Contact for licensing:  
-🔗 Telegram: [https://t.me/YOUR_USERNAME](https://t.me/sunnamsriram)  
+🔗 Telegram: [https://t.me/sunnamsriram](https://t.me/sunnamsriram)  
 🔗 GitHub: [https://github.com/sunnamsriram1](https://github.com/sunnamsriram1)
 
 ---
