@@ -3,7 +3,7 @@
 - 🔐 Want full version or private repo access?
 
 - 💬 Join Telegram: https://t.me/yourchannel  
-- 💰 UPI Payment: sriram@ybl (₹299/- only)
+- 💰 UPI Payment: sunnamsriram22@oksbi (₹299/- only one Tool)
 - 🧠 Get support & updates through Telegram!
 <!--
 **sunnamsriram1/sunnamsriram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
