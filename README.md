@@ -3,7 +3,6 @@
 - 🔐 Want full version or private repo access?
 
 - 💬 Join Telegram: https://t.me/sunnamsriram  
-- 💰 UPI Payment: sunnamsriram22@oksbi (₹299/- only one Tool)
 - 🧠 Get support & updates through Telegram!
 
 ## 🔐 License
