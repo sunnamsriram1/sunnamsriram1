@@ -2,7 +2,7 @@
 
 - 🔐 Want full version or private repo access?
 
-- 💬 Join Telegram: https://t.me/sunnamsriram  
+- 💬 Join Telegram: https://t.me/pytraveler_01sriram
 - 🧠 Get support & updates through Telegram!
 
 ## 🔐 License
